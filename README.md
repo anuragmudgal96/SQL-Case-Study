@@ -1,7 +1,7 @@
 # SQL
 Level: Intermediate SQL
 
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, GROUP BY Statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation.
+**Functions:** Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, GROUP BY Statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation.
 
 | Project Name | Description |
 |---|---|
