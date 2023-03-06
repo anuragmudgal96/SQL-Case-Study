@@ -25,10 +25,10 @@ The main types of attributes are:
 **Task Performed:** Data Cleansing and data exploration.
 
 
-**Data Set:** Data is available in a csv file.
+**Data Set:** Data is available in a [csv file](https://github.com/anuragmudgal96/SQL-Case-Study/blob/main/Shopping%20Mart/weekly_sales_raw.csv).
 
 **Tool Used:**
-- Microsoft SQL Server 2019 for data analysis - View SQL scripts
+- Microsoft SQL Server 2019 for data analysis - [View SQL scripts](https://github.com/anuragmudgal96/SQL-Case-Study/blob/main/Shopping%20Mart/shopping_mart_SQLQuery.sql)
 
 
 **Approach:**
@@ -54,7 +54,7 @@ In a single query, we performed the following operations and generate a new tabl
 | F | Couples  |
 | C | Families |
 
-Have a look at clean_weekly_sales.csv after cleansing process.
+Have a look at [clean_weekly_sales.csv](https://github.com/anuragmudgal96/SQL-Case-Study/blob/main/Shopping%20Mart/clean_weekly_sales.csv) after cleansing process.
 </details>
 
 <details>
@@ -68,4 +68,6 @@ Have a look at clean_weekly_sales.csv after cleansing process.
     <li> What is the percentage of sales by demographic for each year in the dataset?</li>
     <li> Which age_band and demographic values contribute the most to Retail sales?</li>
 </ol>
+    
+View my solution [here](https://github.com/anuragmudgal96/SQL-Case-Study/blob/main/Shopping%20Mart/shopping_mart_SQLQuery.sql).
 </details>
