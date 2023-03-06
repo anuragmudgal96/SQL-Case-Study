@@ -5,5 +5,5 @@ Level: Intermediate SQL
 
 | Project Name | Description |
 |---|---|
-| Shopping Mart | I analyse data in order to comprehend the impact that launching sustainable packaging methods has on sales performance. | 
+| [Shopping Mart](https://github.com/anuragmudgal96/SQL-Case-Study/tree/main/Shopping%20Mart) | I analyse data in order to comprehend the impact that launching sustainable packaging methods has on sales performance. | 
 ***
