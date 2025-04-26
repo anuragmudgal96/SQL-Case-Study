@@ -2,7 +2,7 @@ SELECT *
 FROM weekly_sales
 
 
--------------------------------------------- Data Cleasing -----------------------------------------
+-------------------------------------------- Data Cleasing ------------------------------------------
 -- We will store clean data in clean_weekly_sales from weekly_sales data
 
 
